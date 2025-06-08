@@ -1,4 +1,4 @@
-id,'rent','rentsqm','area','yearc','location','bath','kitchen','cheating','district'
+id,rent,rentsqm,area,yearc,location,bath,kitchen,cheating,district
 1,120.97435760498,3.45641016960144,35,1939,"1","0","0","0",1112
 2,436.974334716797,4.20167636871338,104,1939,"1","1","0","1",1112
 3,355.743591308594,12.2670211791992,29,1971,"2","0","0","1",2114
